@@ -4,7 +4,7 @@
     android:id="@+id/mainLayout"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@android:color/white"
+    android:background="#B8A3A3"
     android:padding="16dp">
 
     <TextView
@@ -45,7 +45,7 @@
         android:paddingStart="16dp"
         android:paddingEnd="16dp"
         android:text="@string/add_task"
-        android:textColor="#263238" />
+        android:textColor="#080809" />
 
     <ListView
         android:id="@+id/listViewTasks"
